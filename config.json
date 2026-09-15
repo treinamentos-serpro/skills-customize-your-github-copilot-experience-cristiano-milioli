@@ -72,6 +72,34 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "task-manager-python",
+      "title": "Task Manager in Python",
+      "description": "Build a small task management app using Python lists, dictionaries, functions, and file persistence",
+      "path": "assignments/task-manager-python",
+      "dueDate": "2026-09-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "binary-tree-practice",
+      "title": "Binary Tree Practice",
+      "description": "Learn how to build and traverse a binary search tree in Python using classes, recursion, and data structures",
+      "path": "assignments/binary-tree-practice",
+      "dueDate": "2026-09-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
