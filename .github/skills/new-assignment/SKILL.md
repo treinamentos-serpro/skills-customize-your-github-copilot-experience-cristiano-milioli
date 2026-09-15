@@ -1,5 +1,5 @@
 ---
-name: nova-atividade
+name: new-assignment
 description: Crie uma nova atividade de programação para estudantes da Mergington High School. Use esta skill sempre que o usuário quiser criar, adicionar, estruturar ou gerar uma nova atividade, exercício ou trabalho de casa, mesmo que não use explicitamente a palavra "atividade".
 ---
 
